@@ -1,13 +1,22 @@
 .dice {
-    width: 175px;
-    height: 175px;
+    position: relative;
     float: left;
     margin: 10px;
-    border: 2px black line;
+    font-size: 4em;
+    text-align: center;
+    top: 20px;
+    line-height: 170px; 
+    vertical-align: middle;
 }
 
-button{
+#generate-button {
     position: relative;
     display: block;
     align-items: center;
-  }
+    margin: 5px;
+}
+
+#roll-button{
+    position: absolute;
+    margin: 5px;
+}
