@@ -1,0 +1,13 @@
+.dice {
+    width: 175px;
+    height: 175px;
+    float: left;
+    margin: 10px;
+    border: 2px black line;
+}
+
+button{
+    position: relative;
+    display: block;
+    align-items: center;
+  }
