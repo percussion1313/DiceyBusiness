@@ -1,6 +1,8 @@
-.dice {
+.die {
     position: relative;
     float: left;
+    height: 175px;
+    width: 175px;
     margin: 10px;
     font-size: 4em;
     text-align: center;
